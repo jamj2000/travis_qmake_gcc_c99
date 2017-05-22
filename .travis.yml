@@ -4,4 +4,4 @@ compiler: gcc
 script: 
   - qmake
   - make
-  - ./travis_qmake_gcc_c98
+  - ./travis_qmake_gcc_c99
